@@ -1,0 +1,8 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "dependencies": {
+    "fastest-levenshtein": "^1.0.16",
+    "nodemailer": "^6.9.16"
+  }
+}
